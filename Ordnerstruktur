@@ -1,0 +1,15 @@
+ruh-gartenhelfer-website
+├── app
+│   ├── layout.jsx
+│   └── page.jsx
+├── public
+│   ├── logo.png
+│   └── images
+│       ├── hero-gartenpflege.jpg
+│       ├── rasenmaehen.jpg
+│       ├── heckenschnitt.jpg
+│       ├── steinreinigung.jpg
+│       └── entsorgung.jpg
+├── package.json
+├── jsconfig.json
+└── next.config.mjs
